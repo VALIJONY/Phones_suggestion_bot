@@ -1,0 +1,4 @@
+Django
+aiogram
+google-generativeai
+python-dotenv
